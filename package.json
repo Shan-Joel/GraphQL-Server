@@ -1,0 +1,18 @@
+{
+   "name": "GraphQL API for searching books and authors",
+   "version": "1.0.0",
+   "description": "",
+   "main": "server.js",
+   "scripts": {
+      "start": "nodemon app.js"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "express": "^4.18.1",
+      "express-graphql": "^0.12.0",
+      "graphql": "^16.5.0",
+      "nodemon": "^2.0.19"
+   }
+}
